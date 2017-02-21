@@ -1,0 +1,11 @@
+
+#LaserDataDir=./data/DataTest.txt
+LaserDataDir=./data/origin.txt
+NNEngineType=ANN
+ICPAlgroithmType=PointToLine
+
+IcpMetricL=3
+IcpTrimRatio=0.9
+IcpConvError=1e-4
+IcpMaxIter=200
+

@@ -1,0 +1,5 @@
+
+
+
+#poseFileDir=./pose.txt
+poseFileDir=./txt/poseTest.txt

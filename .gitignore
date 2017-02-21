@@ -1,0 +1,9 @@
+
+
+
+.kdev4/*
+build/*
+!.gitignore
+.kdev4
+.txt
+

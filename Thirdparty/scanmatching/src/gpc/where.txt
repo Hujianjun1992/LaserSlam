@@ -1,0 +1,5 @@
+This library is taken from (Andrea Censi's work):
+http://www.cds.caltech.edu/~andrea/research/sw/gpc.html
+
+For updates:
+$ svn checkout https://svn.cds.caltech.edu/subversion/andrea/gpc
